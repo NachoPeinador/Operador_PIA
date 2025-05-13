@@ -5,7 +5,7 @@
 ## 🇪🇸 **Español**  
 ### Instrucciones para validar el artículo científico:  
 1. **Descarga el archivo**:  
-   - Ve al repositorio [github.com/ejemplo/Operador_PIA]([https://github.com/ejemplo/Operador_PIA](https://github.com/NachoPeinador/Operador_PIA)).  
+   - Ve al repositorio ((https://github.com/NachoPeinador/Operador_PIA)).  
    - Descarga `Operador_PIA.txt`.  
 
 2. **Valida con DeepSeek**:  
