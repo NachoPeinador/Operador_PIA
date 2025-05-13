@@ -26,7 +26,7 @@
 ## 🇬🇧 **English**  
 ### How to validate the scientific paper:  
 1. **Download the file**:  
-   - Go to [github.com/example/Operador_PIA](https://github.com/example/Operador_PIA).  
+   - Go to https://github.com/NachoPeinador/Operador_PIA.
    - Download `Operador_PIA.txt`.  
 
 2. **Validate with DeepSeek**:  
@@ -47,7 +47,7 @@
 ## 🇫🇷 **Français**  
 ### Instructions pour valider l'article scientifique :  
 1. **Téléchargez le fichier** :  
-   - Allez sur [github.com/exemple/Operador_PIA](https://github.com/exemple/Operador_PIA).  
+   - Allez sur https://github.com/NachoPeinador/Operador_PIA.  
    - Téléchargez `Operador_PIA.txt`.  
 
 2. **Validez avec DeepSeek** :  
@@ -68,7 +68,7 @@
 ## 🇮🇳 **हिन्दी** (Hindi)  
 ### वैज्ञानिक पत्र को सत्यापित करने के निर्देश:  
 1. **फ़ाइल डाउनलोड करें**:  
-   - [github.com/udaharan/Operador_PIA](https://github.com/udaharan/Operador_PIA) पर जाएँ।  
+   - https://github.com/NachoPeinador/Operador_PIA. पर जाएँ।  
    - `Operador_PIA.txt` डाउनलोड करें।  
 
 2. **DeepSeek से सत्यापित करें**:  
@@ -89,7 +89,7 @@
 ## 🇨🇳 **中文** (Chino Mandarín)  
 ### 验证科学论文的步骤:  
 1. **下载文件**:  
-   - 访问 [github.com/例子/Operador_PIA](https://github.com/例子/Operador_PIA).  
+   - 访问 https://github.com/NachoPeinador/Operador_PIA.
    - 下载 `Operador_PIA.txt`.  
 
 2. **用DeepSeek验证**:  
