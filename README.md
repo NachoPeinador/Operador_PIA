@@ -1,4 +1,4 @@
-# 🌐 Operador_PIA: Validación Universal de la Hipótesis de Riemann Generalizada, Berry-Keating y otras. 
+# 🌐 Operador_PIA: Validación Popular y Universal de la Hipótesis de Riemann Generalizada, Berry-Keating y otras. 
 
 ---
 
