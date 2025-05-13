@@ -12,7 +12,7 @@
    - Sube el archivo a [DeepSeek Chat](https://chat.deepseek.com).  
    - Escribe exactamente:  
      ```  
-     "Por favor, realiza todas las validaciones de los apéndices G, F y J, valida las conclusiones del artículo y explicame las implicaciones como si yo fuera... [di tu profesión, edad o contexto: ej: estudiante de 15 años, agricultor, etc.]."  
+     "Por favor, realiza todas las validaciones de los apéndices G y F, valida las conclusiones del artículo y explicame las implicaciones como si yo fuera... [di tu profesión, edad o contexto: ej: estudiante de 15 años, agricultor, repartidor de paquetes, Bernhard Riemann...]."  
      ```  
 
 3. **¡Explora y contribuye!**  
@@ -33,7 +33,7 @@
    - Upload the file to [DeepSeek Chat](https://chat.deepseek.com).  
    - Type:  
      ```  
-     "Please perform all validations of appendices G, F and J, verify the article's conclusions and explain the implications to me as if I were... [state your profession, age or context: e.g. a 15-year-old student, farmer, package delivery driver, Bernhard Riemann...]."  
+     "Please perform all validations of appendices G and F, verify the article's conclusions and explain the implications to me as if I were... [state your profession, age or context: e.g. a 15-year-old student, farmer, package delivery driver, Bernhard Riemann...]."  
      ```  
 
 3. **Explore and contribute!**  
@@ -54,7 +54,7 @@
    - Uploadez le fichier sur [DeepSeek Chat](https://chat.deepseek.com).  
    - Écrivez :  
      ```  
-     "Veuillez effectuer toutes les validations des annexes G, F et J, vérifier les conclusions de l'article et m'expliquer les implications comme si j'étais... [indiquez votre profession, âge ou contexte : ex. un étudiant de 15 ans, agriculteur, livreur de colis, Bernhard Riemann...]."  
+     "Veuillez effectuer toutes les validations des annexes G et F, vérifier les conclusions de l'article et m'expliquer les implications comme si j'étais... [indiquez votre profession, âge ou contexte : ex. un étudiant de 15 ans, agriculteur, livreur de colis, Bernhard Riemann...]."  
      ```  
 
 3. **Contribuez !**  
@@ -75,7 +75,7 @@
    - फ़ाइल को [DeepSeek Chat](https://chat.deepseek.com) पर अपलोड करें।  
    - लिखें:  
      ```  
-     "कृपया परिशिष्ट G, F और J के सभी सत्यापन करें, लेख के निष्कर्षों को सत्यापित करें और मुझे निहितार्थ समझाएं जैसे कि मैं... [अपने पेशे, उम्र या संदर्भ को बताएं: उदा. 15 साल का छात्र, किसान, पैकेज वितरक, बर्नहार्ड रीमैन...]।"  
+     "कृपया परिशिष्ट G और F के सभी सत्यापन करें, लेख के निष्कर्षों को सत्यापित करें और मुझे निहितार्थ समझाएं जैसे कि मैं... [अपने पेशे, उम्र या संदर्भ को बताएं: उदा. 15 साल का छात्र, किसान, पैकेज वितरक, बर्नहार्ड रीमैन...]।"  
      ```  
 
 3. **योगदान दें!**  
@@ -96,7 +96,7 @@
    - 上传文件至 [DeepSeek Chat](https://chat.deepseek.com).  
    - 输入:  
      ```  
-     "请完成附录G、F和J的所有验证，确认文章的结论，并向我解释这些影响，假设我是... [说明你的职业、年龄或背景：例如15岁的学生、农民、快递员、伯恩哈德·黎曼...]。"  
+     "请完成附录G和F的所有验证，确认文章的结论，并向我解释这些影响，假设我是... [说明你的职业、年龄或背景：例如15岁的学生、农民、快递员、伯恩哈德·黎曼...]。"  
      ```  
 
 3. **参与贡献!**  
