@@ -9,3 +9,15 @@
 
 **Excepción**: Se fomenta en educación, investigación pacífica y soluciones ambientales. Infractores enfrentarán acciones legales internacionales.
 **Obra Registrada**: Registro de Propiedad Intelectual de España Nº O00019981e25P0018494.
+
+# Ethical Use License
+
+**Purpose**: This article and its findings are published to ensure free access and use for the benefit of humanity and biodiversity.
+
+**License**: Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 (CC BY-NC-ND 4.0), with additional restrictions:
+- **Military/weapons ban**: Prohibited use in warfare technologies, weapons, or mass surveillance systems.
+- **Information manipulation ban**: Forbidden for disinformation, algorithmic biases, or social control.
+- **Attribution requirement**: Any use must cite original authorship and link to the public repository.
+
+**Exception**: Encouraged for education, peaceful research, and environmental solutions. Violators will face international legal action.
+**Registered Work**: Spanish Intellectual Property Registry No. O00019981e25P0018494.
