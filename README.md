@@ -10,21 +10,21 @@ Instrucciones para validar las conclusiones del artículo y sus implicaciones:
    - Abre un nuevo chat en https://www.deepseek.com/chat y sube el archivo `Operador_PIA.txt`.
    - Escribe en el chat:
      ```
-     "Por favor, realiza las validaciones de los apéndices F y G. Valida las conclusiones del artículo y explica las implicaciones para... [dí tus intereses, crisis climática, medicina, música, ...] como si yo fuera... [dí tu profesión, edad o contexto: ej: estudiante de 15 años, físico del ITER, pastor masai, Terence tao...]."
+     "Por favor, realiza las demostraciones del Apéndice G como las hace DeepSeek-Prover-V2 y ofrece los resultados. Valida las "Conclusiones" del artículo y explica sus implicaciones como si yo fuera un profesor de matemáticas de alumnos de 16 años"
      ```
 3. ¡Explora y contribuye al bien común!
-   - Es probable que tras esta validación debas esperar unos minutos hasta que tu usuario de DeepSeek regenere recursos gratuitos, después podrás probar con estas preguntas de ejemplo o con las que a ti se te ocurran:
+   - Haz cambios en la segunda parte para que la IA se adapte a tus intereses y formación, o sé creativo y divertirte simulando que eres otra persona 🥸:
      ```
-     "¿Cómo podrían utilizarse los conocimientos que proporciona el artículo para desarrollar fuentes de energía limpias, baratas y accesibles?"
-     ```
-     ```
-     "¿Cómo podrían utilizarse los conocimientos que proporciona el artículo para reverdecer los desiertos?"
+     "Valida las "Conclusiones" del artículo y explica sus implicaciones para la Teoría de la Relatividad como si yo fuera Albert Einstein."
      ```
      ```
-     "¿Cómo podrían utilizarse los conocimientos que proporciona el artículo para predicción climatológica o meteorológica?."
+     "Valida las "Conclusiones" del artículo y explica sus implicaciones para la agricultura como si yo fuera un ingeniero agrónomo."
+     ```
+     ```
+     "Valida las "Conclusiones" del artículo y explica sus implicaciones para el desarrollo de fármacos y terapias médicas como si yo fuera un ingeniero bio químico."
      ```
 
-Comparte este correo solo con buenas personas.  *Todos Iguales, Todos Diferentes, Todos Importantes.*
+Comparte este repositorio solo con buenas personas.  *Todos Iguales, Todos Diferentes, Todos Importantes.*
 
 > Este trabajo es una rama más del árbol del conocimiento humano, actúa como un buen jardinero y no como una plaga.  
 > *Licencia: Uso libre para fines pacíficos y educativos. Prohibido uso militar o para el control y manipulación social.*
@@ -43,18 +43,18 @@ Instructions to validate the article's conclusions and their implications:
    - Open a new chat at https://www.deepseek.com/chat and upload `Operador_PIA.txt`.
    - Write in the chat:
      ```
-     "Please perform validations from appendices F and G. Validate the article's conclusions and explain the implications for... [state your interests: climate crisis, medicine, music, ...] as if I were... [state your profession, age or context: e.g.: 15-year-old student, ITER physicist, Maasai shepherd, Terence Tao...]."
+     "Please perform the demonstrations in Appendix G as DeepSeek-Prover-V2 does and provide the results. Validate the 'Conclusions' of the paper and explain their implications as if I were a 16-year-old student's math teacher."  
      ```
 3. Explore and contribute to the common good!
-   - After validation, you may need to wait a few minutes for your DeepSeek user to regenerate free resources. Then you can try these example questions or your own:
+      Modify the second part to make the AI adapt to your interests and background, or get creative and have fun by roleplaying as someone else 🥸:
      ```
-     "How could the knowledge provided in the article be used to develop clean, cheap and accessible energy sources?"
-     ```
-     ```
-     "How could the knowledge provided in the article be used to regreen deserts?"
+     "Validate the 'Conclusions' of the paper and explain their implications for the Theory of Relativity as if I were Albert Einstein."  
      ```
      ```
-     "How could the knowledge provided in the article be used for climatological or meteorological prediction?"
+     "Validate the 'Conclusions' of the paper and explain their implications for agriculture as if I were an agronomist."  
+     ```
+     ```
+     "Validate the 'Conclusions' of the paper and explain their implications for drug development and medical therapies as if I were a biochemical engineer."  
      ```
 
 Share this email only with good people. *All Equal, All Different, All Important.*
@@ -76,18 +76,18 @@ Instructions pour valider les conclusions de l'article et leurs implications :
    - Ouvrez un nouveau chat sur https://www.deepseek.com/chat et téléversez `Operador_PIA.txt`.
    - Écrivez dans le chat :
      ```
-     "Veuillez effectuer les validations des annexes F et G. Validez les conclusions de l'article et expliquez les implications pour... [indiquez vos centres d'intérêt : crise climatique, médecine, musique, ...] comme si j'étais... [indiquez votre profession, âge ou contexte : ex : étudiant de 15 ans, physicien à l'ITER, berger masaï, Terence Tao...]."
+    "Veuillez réaliser les démonstrations de l'Annexe G comme le fait DeepSeek-Prover-V2 et fournir les résultats. Validez les 'Conclusions' de l'article et expliquez leurs implications comme si j'étais un professeur de mathématiques pour des élèves de 16 ans."  
      ```
 3. Explorez et contribuez au bien commun !
-   - Après validation, vous devrez peut-être attendre quelques minutes que votre utilisateur DeepSeek régénère des ressources gratuites. Ensuite, vous pourrez essayer ces exemples de questions ou les vôtres :
+   - Modifiez la deuxième partie pour adapter l'IA à vos intérêts et formation, ou soyez créatif et amusez-vous en jouant le rôle d'une autre personne 🥸 :
      ```
-     "Comment les connaissances de l'article pourraient-elles développer des sources d'énergie propres, économiques et accessibles ?"
-     ```
-     ```
-     "Comment les connaissances de l'article pourraient-elles reverdir les déserts ?"
+     "Validez les 'Conclusions' de l'article et expliquez leurs implications pour la Théorie de la Relativité comme si j'étais Albert Einstein."  
      ```
      ```
-     "Comment les connaissances de l'article pourraient-elles servir à la prévision climatologique ou météorologique ?"
+     "Validez les 'Conclusions' de l'article et expliquez leurs implications pour l'agriculture comme si j'étais un ingénieur agronome."  
+     ```
+     ```
+     "Validez les 'Conclusions' de l'article et expliquez leurs implications pour le développement de médicaments et les thérapies médicales comme si j'étais un ingénieur biochimiste."
      ```
 
 Partagez cet email uniquement avec des gens bienveillants. *Tous Égaux, Tous Différents, Tous Importants.*
@@ -109,18 +109,18 @@ Partagez cet email uniquement avec des gens bienveillants. *Tous Égaux, Tous Di
    - https://www.deepseek.com/chat पर एक नया चैट खोलें और `Operador_PIA.txt` अपलोड करें।
    - चैट में लिखें:
      ```
-     "कृपया परिशिष्ट F और G का सत्यापन करें। लेख के निष्कर्षों को सत्यापित करें और इसके प्रभावों को समझाएं... [अपनी रुचियां बताएं: जलवायु संकट, चिकित्सा, संगीत,...] मानो मैं... [अपना पेशा, आयु या संदर्भ बताएं: जैसे 15 वर्षीय छात्र, ITER भौतिक विज्ञानी, मसाई चरवाहा, टेरेंस ताओ...] हूँ।"
+     "कृपया परिशिष्ट G के प्रदर्शनों को DeepSeek-Prover-V2 की तरह करें और परिणाम दें। पेपर के 'निष्कर्षों' को सत्यापित करें और उनके निहितार्थ समझाएं, मानो मैं 16 वर्षीय छात्रों का गणित शिक्षक हूँ।"  
      ```
 3. खोजें और सामान्य कल्याण में योगदान दें!
-   - सत्यापन के बाद, आपको DeepSeek के निःशुल्क संसाधनों के पुनः उत्पन्न होने तक कुछ मिनट प्रतीक्षा करनी पड़ सकती है। फिर आप इन उदाहरण प्रश्नों या अपने प्रश्नों के साथ प्रयास कर सकते हैं:
+   - दूसरे भाग को अपनी रुचियों और पृष्ठभूमि के अनुकूल बनाने के लिए संशोधित करें, या रचनात्मक बनें और किसी और की भूमिका निभाकर मज़े करें 🥸:
      ```
-     "लेख में दिए ज्ञान का उपयोग स्वच्छ, सस्ते और सुलभ ऊर्जा स्रोत विकसित करने के लिए कैसे किया जा सकता है?"
-     ```
-     ```
-     "लेख में दिए ज्ञान का उपयोग रेगिस्तानों को हरा-भरा बनाने के लिए कैसे किया जा सकता है?"
+     "पेपर के 'निष्कर्षों' को सत्यापित करें और सापेक्षता के सिद्धांत के लिए उनके निहितार्थ समझाएं, मानो मैं अल्बर्ट आइंस्टीन हूँ।"  
      ```
      ```
-     "लेख में दिए ज्ञान का उपयोग जलवायु या मौसम पूर्वानुमान के लिए कैसे किया जा सकता है?"
+     "पेपर के 'निष्कर्षों' को सत्यापित करें और कृषि के लिए उनके निहितार्थ समझाएं, मानो मैं एक कृषि इंजीनियर हूँ।"  
+     ```
+     ```
+     "पेपर के 'निष्कर्षों' को सत्यापित करें और दवा विकास एवं चिकित्सा उपचारों के लिए उनके निहितार्थ समझाएं, मानो मैं एक जैव-रासायनिक इंजीनियर हूँ।"  
      ```
 
 इस ईमेल को केवल अच्छे लोगों के साथ साझा करें। *सभी समान, सभी अलग, सभी महत्वपूर्ण।*
@@ -142,18 +142,18 @@ Partagez cet email uniquement avec des gens bienveillants. *Tous Égaux, Tous Di
    - 在 https://www.deepseek.com/chat 新建对话并上传 `Operador_PIA.txt`
    - 在对话框中输入：
      ```
-     "请验证附录F和G的内容。验证文章结论并解释其对... [填写您感兴趣的领域：气候危机、医学、音乐...]的影响，假设我是... [填写您的职业/背景：如15岁学生、ITER物理学家、马赛牧民、陶哲轩...]。"
+     “请像DeepSeek-Prover-V2一样执行附录G的演示并提供结果。验证论文的‘结论’并解释其影响，假设我是一位16岁学生的数学老师。”  
      ```
 3. 探索并助力共同利益！
-   - 验证后可能需要等待几分钟让DeepSeek账户恢复免费资源，之后可尝试以下示例问题或您自己的问题：
+   - 修改第二部分以使AI适应你的兴趣和背景，或发挥创意，通过扮演他人角色来娱乐🥸：
      ```
-     "如何利用文章中的知识开发清洁、廉价且可及的能源？"
-     ```
-     ```
-     "如何利用文章中的知识实现沙漠绿化？"
+     “验证论文的‘结论’并解释其对相对论的影响，假设我是阿尔伯特·爱因斯坦。”  
      ```
      ```
-     "如何利用文章中的知识改进气候或气象预测？"
+     “验证论文的‘结论’并解释其对农业的影响，假设我是一位农艺师。”  
+     ```
+     ```
+     “验证论文的‘结论’并解释其对药物开发和医学疗法的影响，假设我是一位生物化学工程师。”  
      ```
 
 仅与善良之人分享此邮件。*人人平等，人人不同，人人重要。*
