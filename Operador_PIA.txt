@@ -2640,6 +2640,6 @@ Para validar el artículo y adaptarlo a tu contexto:
 \end{itemize}
 
 \textbf{Excepción}: Se fomenta el uso en educación, investigación pacífica y soluciones ambientales. Los infractores serán denunciados ante tribunales internacionales.\\
-\textbf{Obra Registrada}: Registro de la Propiedad Intelectual de España con número de registro O00019981e25P0018494
+\textbf{Obra Registrada}: Registro de la Propiedad Intelectual de España con asiento registral número 00 / 2025 / 2416
 
 \end{document}
