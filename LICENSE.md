@@ -8,7 +8,7 @@
 - **Atribución obligatoria**: Cualquier uso debe citar autoría original y enlazar al repositorio público.
 
 **Excepción**: Se fomenta en educación, investigación pacífica y soluciones ambientales. Infractores enfrentarán acciones legales internacionales.
-**Obra Registrada**: Registro de Propiedad Intelectual de España Nº O00019981e25P0018494.
+**Obra Registrada**: Registro de Propiedad Intelectual de España Nº 00 / 2025 / 2416.
 
 # Ethical Use License
 
@@ -20,7 +20,7 @@
 - **Attribution requirement**: Any use must cite original authorship and link to the public repository.
 
 **Exception**: Encouraged for education, peaceful research, and environmental solutions. Violators will face international legal action.
-**Registered Work**: Spanish Intellectual Property Registry No. O00019981e25P0018494.
+**Registered Work**: Spanish Intellectual Property Registry No. 00 / 2025 / 2416.
 
 # Licence d'Utilisation Éthique
 
@@ -32,7 +32,7 @@
 - **Attribution obligatoire**: Toute utilisation doit citer l'auteur original et lier au dépôt public.
 
 **Exception**: Encouragé pour l'éducation, la recherche pacifique et les solutions environnementales. Les contrevenants seront poursuivis.
-**Œuvre Enregistrée**: Registre de Propriété Intellectuelle Espagnol Nº O00019981e25P0018494.
+**Œuvre Enregistrée**: Registre de Propriété Intellectuelle Espagnol Nº 00 / 2025 / 2416.
 
 # नैतिक उपयोग लाइसेंस
 
@@ -44,7 +44,7 @@
 - **उद्धरण आवश्यक**: किसी भी उपयोग में मूल लेखकत्व और सार्वजनिक रिपॉजिटरी लिंक अवश्य दें।
 
 **अपवाद**: शिक्षा, शांतिपूर्ण शोध और पर्यावरणीय समाधानों में उपयोग को प्रोत्साहित। उल्लंघनकर्ताओं के विरुद्ध अंतर्राष्ट्रीय कार्रवाई।
-**पंजीकृत कार्य**: स्पेनिश बौद्धिक संपदा पंजीकरण सं. O00019981e25P0018494।
+**पंजीकृत कार्य**: स्पेनिश बौद्धिक संपदा पंजीकरण सं. 00 / 2025 / 2416।
 
 # 道德使用许可
 
@@ -56,4 +56,4 @@
 - **署名要求**: 任何使用必须注明原作者并链接至公共存储库。
 
 **例外**: 鼓励用于教育、和平研究和环境解决方案。违约者将面临国际法律诉讼。
-**注册作品**: 西班牙知识产权注册号 O00019981e25P0018494。
+**注册作品**: 西班牙知识产权注册号 00 / 2025 / 2416。
